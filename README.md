@@ -1,3 +1,3 @@
 # devops
 
-This projuct test DevOps runtime
+This projuct test DevOps
