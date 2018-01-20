@@ -4,7 +4,7 @@ echo -e "Start deploy projuct"
 killall devops
 cd $GOPATH/src
 
-if [ ! -d $GoPATH/src/devops ]; then
+if [ ! -d "test" ]; then
     echo -e "git clone from https://github.com/MulticsYin/devops.git"
     git clone https://github.com/MulticsYin/devops.git
     cd $GOPATH/src/devops
