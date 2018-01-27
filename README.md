@@ -1,3 +1,3 @@
 # devops
 
-This projuct test DevOps
+自动化部署的一个测试开发程序，该项目主要模拟远程代码仓库。
